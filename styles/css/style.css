@@ -1,12 +1,19 @@
 h1{
-    color: red;
+    color: redd;
     font-size: 30px;
 }
 
 h2{
-    color: green;
+    color:white;
     font-size: 30px; 
     margin: 30;
-    div: 0
+}
 
+body{
+    background-image: url('http://www.photobackgroundhd.com/wp-content/uploads/2018/07/James-Harden-photo-background-hd-1-520x245.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: auto 100vh;
+    /* background-position-y: 25%; */
+    color: white;
 }
