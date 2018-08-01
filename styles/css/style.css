@@ -4,16 +4,14 @@ h1{
 }
 
 h2{
-    color:white;
     font-size: 30px; 
     margin: 30;
 }
 
 body{
-    background-image: url('http://www.photobackgroundhd.com/wp-content/uploads/2018/07/James-Harden-photo-background-hd-1-520x245.png');
+    background-image: url("https://images3.alphacoders.com/771/771215.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-size: auto 100vh;
-    /* background-position-y: 25%; */
     color: white;
 }
